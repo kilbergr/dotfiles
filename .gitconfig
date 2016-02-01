@@ -1,0 +1,5 @@
+[user] name = Rebecca Kilberg email = rekilberg@gmail.com    
+[push]  default = simple  
+[transfer]  fsckObjects = true  
+[color]  ui = true
+
